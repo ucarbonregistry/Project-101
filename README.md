@@ -5,6 +5,37 @@ project in the District Solan, in the state of Himachal Pradesh, in India. As pe
 this project will generate approximately 8,760 MWh of electricity per annum considering an average PLF of 20%. 
 The estimated annual average and the total CO2e emission reduction by the project activity is expected to be 7,884 tCO2e/year.
 
+
+The project activity involves Ground Mounted Photovoltaic (PV) Plant having aggregated installed
+capacity of 5000 kW. The project activity uses Polycrystalline solar photovoltaic technology to 
+generate clean energy. Solar radiation is converted directly into electricity by solar cells (photovoltaic 
+cells). In such cells, a small electric voltage is generated when light strikes the junction between a 
+metal and a semiconductor (such as silicon) or the junction between two different semiconductors. 
+Photovoltaic module consists of several photovoltaic cells connected by circuits and sealed in an 
+environmentally protective laminate, which forms the fundamental building blocks of the complete 
+PV generating unit. Several PV panels mounted on a frame are termed as PV Array.
+
+Country : India
+
+State : Himachal Pradesh
+
+Village : Nand
+
+Tahesil : Nalagarh
+
+District : Solan
+
+The project site is in village Nand of Solan district, Himachal Pradesh. The nearest railway station 
+is Kalka at a distance of about 70 kms from the project site. The nearest airport is in Chandigarh at 
+a distance of 87 kms from the project site. The project site is well connected from airport and railway 
+station. 
+
+The geographic co-ordinates of the project location have been given below.
+
+Latitude : 31°09’41.5” N
+
+Longitude : 76°45’32.1” E
+______________
 Monitoring Period Number: 01
 
 Duration of this monitoring Period: 03 Years and10 
