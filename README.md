@@ -27,3 +27,35 @@ First CoU Issuance Period: 03 Years and 10 Months
 
 Monitoring Period: 19/03/2018 to 31/12/2021
 
+_________
+Issue Date: 22/07/2022
+
+Qty: 27,862 CoUs
+
+MP-01 Period: 2018-2021
+________
+Serial Id: 0001-000001-005029-UCR-CoU-IN-101-09032018-31122018
+
+Vintage: 2018
+
+Qty: 5,029 CoUs
+_______
+Serial Id: 0001-005030-012397-UCR-CoU-IN-101-01012019-31122019
+
+Vintage: 2019
+
+Qty: 7,368 CoUs
+________
+Serial Id: 0001-012398-020116-UCR-CoU-IN-101-01012020-31122020
+
+Vintage: 2020
+
+Qty: 7,719 CoUs
+__________
+Serial Id: 0001-020117-027862-UCR-CoU-IN-101-01012021-31122021
+
+Vintage: 2021
+
+Qty: 7,746 CoUs
+_________________
+
